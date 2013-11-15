@@ -1,0 +1,10 @@
+﻿Sandbox/Temp/
+Sandbox/Library/
+Sandbox/Obj/
+ 
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
